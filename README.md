@@ -1,5 +1,5 @@
 ===========
-django-SHOP
+django-SHOP(一个基于 Django 的店铺系统)
 ===========
 
 [![Build Status](https://travis-ci.org/awesto/django-shop.svg)](https://travis-ci.org/awesto/django-shop)
